@@ -1,0 +1,26 @@
+{
+  "name": "simplechat",
+  "version": "1.0.0",
+  "description": "A simple, real time chat based on Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo Testing... Working!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoolJim/simplechat.git"
+  },
+  "keywords": [
+    "chat",
+    "node",
+    "nodejs",
+    "real-time",
+    "chatjs"
+  ],
+  "author": "Jim Ke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CoolJim/simplechat/issues"
+  },
+  "homepage": "https://github.com/CoolJim/simplechat#readme"
+}
